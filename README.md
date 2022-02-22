@@ -1,13 +1,14 @@
 # Inspiration Journal
 
 ## Growth Mindset
-Life is the continuation of expansion and contraction.  Learn to love the contraciton as much as the ***EXPANSION***  
+Life is the continuation of expansion and contraction.  
+Learn to love the contraciton as much as the ***EXPANSION***  
 
 ### Developing a growth mindset means that the major key to your better future is ***YOU***.
 
 *Hold yourself accountable and truly understand that you can grasp any goal that your mind sets out to achieve*.  
 
-Food for Success
+Thoughts for Success
 - Remember, there are no losses. Only ***LESSONS***!
 - Taking mental breaks! It's ok rest!
 - Reward yourself after accomplishing any goal.
