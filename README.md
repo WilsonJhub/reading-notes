@@ -8,7 +8,7 @@ Learn to love the contraciton as much as the ***EXPANSION***
 
 *Hold yourself accountable and truly understand that you can grasp any goal that your mind sets out to achieve*.  
 
-Thoughts for Success
+#### Thoughts for Success
 - Remember, there are no losses. Only ***LESSONS***!
 - Taking mental breaks! It's ok rest!
 - Reward yourself after accomplishing any goal.
