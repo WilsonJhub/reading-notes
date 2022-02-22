@@ -2,7 +2,7 @@
 
 ## Growth Mindset
 
-Developing a growth mindset means that the major key to a better future is ***YOU***.
+### Developing a growth mindset means that the major key to your better future is ***YOU***.
 
 You must hold yourself accountable and truly understand that you can achieve any goal that you set out to achieve. 
 
