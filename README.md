@@ -10,8 +10,9 @@ Learn to love the contraciton as much as the ***EXPANSION***
 
 #### Thoughts for Success
 - Remember, there are no losses. Only ***LESSONS***!
-- Taking mental breaks! It's ok rest!
 - Reward yourself after accomplishing any goal.
-- Life is like a Sine wave. There are ups and there are downs. If you are on the down wave, perservere. Nature has a way of rewarding those with patience. 
+- Life is like a Sine wave. There are ups and there are downs. If you are on the down wave, *perservere*. Nature has a way of rewarding those with patience. 
+- Be like a tree and grow as high as you can!
+
 
 
