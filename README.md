@@ -4,7 +4,7 @@
 
 ### Developing a growth mindset means that the major key to your better future is ***YOU***.
 
-You must hold yourself accountable and truly understand that you can achieve any goal that you set out to achieve.  
+*Hold yourself accountable and truly understand that you can achieve any goal that your mind sets out to achieve*.  
 
 - Remember, there are no losses. Only ***LESSONS***!
 - Taking mental breaks!
