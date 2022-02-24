@@ -18,6 +18,4 @@ Examples:
     - Borders-color
 
 ## **CSS** Specifications
-    - A set of rules that, maintained by standard organizations, that define exactly how *CSS* is supposed to operate.
-
-## **CSS** Supported Browsers   
+    - A set of rules that, maintained by standard organizations, that define exactly how *CSS* is supposed to operate.  
