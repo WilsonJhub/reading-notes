@@ -1,4 +1,4 @@
-#JavaScript Notes
+# JavaScript Notes
 
 ## Control Flow
  - The Contro Flow is the order in which the computer executes statements in a script
