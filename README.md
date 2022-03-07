@@ -1,6 +1,6 @@
 # 201 Reading notes
 
-...
+
 # Inspiration Journal
 
 ## Growth Mindset
