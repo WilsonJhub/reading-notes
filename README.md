@@ -1,8 +1,8 @@
 # 201 Reading notes
 
 # Table of Contents
-    1.  
-    2.
+    1. Class 01 
+    2. Class 02
     3.
     4. 
     5. 
