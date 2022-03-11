@@ -8,7 +8,7 @@ Things to remember:
 - Gain user confidence
   - Define age group
   - Decide on your focused industry
-- Keep it simple
+  - Keep it simple
   - Too much design on your page can make it difficult for users to navigate through your page. 
  
 
