@@ -1,8 +1,8 @@
 # 201 Reading notes
 
 # Table of Contents
-    1. Class 01 
-    2. https://github.com/WilsonJhub/reading-notes/blob/main/class-02.md
+    1. [Class 01] 
+    2. [Class 02] (https://github.com/WilsonJhub/reading-notes/blob/main/class-02.md)
     3.
     4. 
     5. 
