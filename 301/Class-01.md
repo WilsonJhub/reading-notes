@@ -5,12 +5,14 @@
 
   1. **What is a component?** 
 
-    A **component** is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its   
+    A **component** is a modular, portable, replaceable, and reusable set of well-defined functionality  
+    that encapsulates its   
     implementation and exporting it as a higher-level interface. 
 
   2. **What are the characteristics of a component?**  
 
-    **Reusibility** - Components are usually designed to be reused in different situations in different applications.  
+    **Reusibility** - Components are usually designed to be reused in different situations in  
+     different applications.  
 
     **Replaceable** - Components may be freely substituted with other similar components.  
 
@@ -46,8 +48,9 @@
     **System maintenance and evolution** − Easy to change and update the implementation 
      without affecting the rest of the system.  
 
-    **Independent** − Independency and flexible connectivity of components. Independent development of components by  
-    different group in parallel. Productivity for the software development and future software development.  
+    **Independent** − Independency and flexible connectivity of components. Independent development of components  
+    by different group in parallel. Productivity for the software development and future 
+    software development.  
 
 ## What is Props and How to Use it in React
   
