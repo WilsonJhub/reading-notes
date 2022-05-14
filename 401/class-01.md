@@ -41,9 +41,9 @@
 	- I am thankful for this command rmdir. I will specifically show that 'rm -r' will remove any directories that contain content within them. This is  especially useful  
 		if you don't want to go and manually remove each individual file within the requested directory.  
 
-Sources:
- https://ryanstutorials.net/linuxtutorial/commandline.php  
- https://ryanstutorials.net/linuxtutorial/navigation.php  
- https://ryanstutorials.net/linuxtutorial/manual.php  
- https://ryanstutorials.net/linuxtutorial/aboutfiles.php  
- https://ryanstutorials.net/linuxtutorial/filemanipulation.php  
+Sources:  
+ - https://ryanstutorials.net/linuxtutorial/commandline.php  
+ - https://ryanstutorials.net/linuxtutorial/navigation.php  
+ - https://ryanstutorials.net/linuxtutorial/manual.php  
+ - https://ryanstutorials.net/linuxtutorial/aboutfiles.php  
+ - https://ryanstutorials.net/linuxtutorial/filemanipulation.php  
