@@ -1,4 +1,6 @@
 # Stacks and Queues
+***source:*** 
+[Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
 -- -
 ## ***What is a Stack?***
 - *A stack is a data structure that consists of Nodes. Each Node references the next Node in the stack, but does not  
