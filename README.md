@@ -46,4 +46,8 @@
 3. [Class 03](401/class-03.md)
 4. [Class 04](401/class-04.md)
 5. [Class 05](401/class-05.md)
-
+6. [Class 06](401/class-05.md)
+7. [Class 07](401/class-05.md)
+8. [Class 08](401/class-05.md)
+9. [Class 09](401/class-05.md)
+10. [Class 010](401/class-05.md)
