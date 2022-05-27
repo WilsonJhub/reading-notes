@@ -26,4 +26,4 @@
 When you push something to the stack, it becomes the new top. When you pop something from the stack,  
 you pop the current top and set the next top as top.next.*  
 
-![Stack Visualization](/pictures/stack1.png)
+![Stack Visualization](D:\401-Java\401\reading-notes\pictures\stack1.png)
