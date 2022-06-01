@@ -1,4 +1,4 @@
-#  CrudRepository, JpaRepository, PagingAndSortingRepository in Spring Data  
+#  CrudRepository, JpaRepository, PagingAndSortingRepository in Spring Data
 -- -
 
 ## Spring Data Repositories  
