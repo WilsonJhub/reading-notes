@@ -51,5 +51,6 @@
 8. [Programing Tips and Rules](401/class-08.md)
 9. [Java HTTP Request](401/class-09.md)
 10. [Stacks and Queues](401/StacksandQueues.md)
-10. [Class 11](\)
-10. [CrudRepository, JpaRepository, PagingAndSortingRepository in Spring Data](401/StacksandQueues.md)
+11. [Class 11](\)
+12. [CrudRepository, JpaRepository, PagingAndSortingRepository in Spring Data](401/StacksandQueues.md)
+13. [Working with Relationships in Spring Data REST](401/spring-relationships.md)
