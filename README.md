@@ -56,3 +56,4 @@
 13. [Working with Relationships in Spring Data REST](401/spring-relationships.md)
 14. [Trees](401/trees.md)
 15. [Hashing Passwords](401/class-14.md)
+16. [Spring Security Architecture](401/class-16.md)
