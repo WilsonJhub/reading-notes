@@ -59,3 +59,6 @@
 16. [Spring Security Architecture](401/class-16.md)
 17. [Spring Boot and OAuth2](401/class-17.md)
 18. [Hibernate Many-to-Many Annotation](401/class-18.md)
+19. [Android Fundamentals](401/class-26.md)
+19. [Android Introduction](401/class-27.md)
+19. [HashTables](401/HashTables.md)
