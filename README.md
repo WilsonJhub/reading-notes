@@ -63,6 +63,7 @@
 20. [Android Introduction](401/class-27.md)
 21. [HashTables](401/HashTables.md)
 22. [RecyclerView](401/class-28.md)
-22. [Saving Data with Room](401/read-29.md)
-23. 
-24. 
+23. [Saving Data with Room](401/read-29.md)
+24. [AWS Amplify](401/read-31.md)
+25. 
+26. 
