@@ -65,5 +65,5 @@
 22. [RecyclerView](401/class-28.md)
 23. [Saving Data with Room](401/read-29.md)
 24. [AWS Amplify](401/read-31.md)
-25. 
+25. [Intro to Serverless](401/read-32.md)
 26. 
