@@ -67,4 +67,8 @@
 24. [AWS Amplify](401/read-31.md)
 25. [Intro to Serverless](401/read-32.md)
 26. [CompletableFuture](401/read-33.md)
+26. [Google's App Publishing Guide](401/read-34.md)
+26. [Amplify and Cognito](401/read-35.md)
+26. [Introduction to Amazon S3](401/read-36.md)
+26. [Intent Filters](401/read-37.md)
 27. 
