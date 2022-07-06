@@ -5,3 +5,5 @@ A
 401/HashTables.md,a\4\a4f328399018ea8bad5da405c8a6d238beb792eb
 >
 401/read-31.md,4\b\4b01664c859e9698cedfb6dd4de0c669e1f98ea7
+>
+401/read-32.md,3\7\3763d608f3aa701d9fbbff03d37d3d4490a6954f
