@@ -71,4 +71,4 @@
 26. [Amplify and Cognito](401/read-35.md)
 26. [Introduction to Amazon S3](401/read-36.md)
 26. [Intent Filters](401/read-37.md)
-27. 
+27. [Location](401/read-39.md)
