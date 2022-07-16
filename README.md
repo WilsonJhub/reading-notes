@@ -73,3 +73,5 @@
 30. [Intent Filters](401/read-37.md)
 31. [Location](401/read-39.md)
 32. [Ethics in Tech](401/read-44.md)
+33. [Intent Filters](401/read-38.md)
+34. [AdMob](401/read-42.md)
